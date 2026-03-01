@@ -1,0 +1,12 @@
+/*custom fonts  */
+@font-face {
+  font-family: A;
+  src:url("/public/fonts/InterTight-Black.ttf")
+}
+@font-face {
+  font-family: AThin;
+  src:url("/public/fonts/InterTight-BlackItalic.ttf")
+}
+
+/*====== custom fonts  */
+
