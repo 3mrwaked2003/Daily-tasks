@@ -56,7 +56,7 @@ export default function TodoList() {
         multiline
         value={activePage.title}
         onChange={(e) => updatePageTitle(e.target.value)}
-        placeholder="Untitled"
+        placeholder="mm"
         sx={{ fontSize: 42, fontWeight: 800, mb: 4, px: 1 }}
       />
 
